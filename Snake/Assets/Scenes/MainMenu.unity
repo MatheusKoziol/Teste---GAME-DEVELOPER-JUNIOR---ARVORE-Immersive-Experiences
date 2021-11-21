@@ -2463,7 +2463,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Makes tou bigger, but slower
+  m_Text: Makes you bigger, but slower
 --- !u!222 &1962621841
 CanvasRenderer:
   m_ObjectHideFlags: 0
